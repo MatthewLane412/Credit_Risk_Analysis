@@ -9,12 +9,15 @@ In this analysis we are attempting to solve a real world problem for credit risk
 #### Naive Random Oversampling
 - balanced accuracy scores
   - asfd
-![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_balanced_accuracy_score.PNG)
+![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
 
 - Confusion Matrix
   - asdf
+![PyBer_Summary_df](/Images/Native_Random_Ovesampling_confusion_matrix.PNG)
+
 - precision and recall scores 
   - asdf
+![PyBer_Summary_df](/Images/Native_Random_Ovesampling_precision_and_recall_scores.PNG)
 
 #### SMOTE Oversampling
 - balanced accuracy scores
