@@ -83,9 +83,13 @@ In this analysis we are attempting to solve a real world problem for credit risk
 ![PyBer_Summary_df](/Images/EasyEnsembleClassifier_balanced_accuracy_score.PNG)
 
 - precision and recall scores 
-  - asdf
+  - The precision accuracy score for this model is very accurate for low risk scores, but very low for high risk loans. 
+  - The recall score shows this model is better at predicting low risk over high risk.
+ 
 ![PyBer_Summary_df](/Images/EasyEnsembleClassifier_Classifier_precision_and_recall_scores.PNG)
 
 
 
 ## Summary
+
+In summary, the BalancedRandomForestClassifier was the 
