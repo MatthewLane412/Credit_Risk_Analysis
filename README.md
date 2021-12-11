@@ -15,25 +15,51 @@ In this analysis we are attempting to solve a real world problem for credit risk
   - asdf
 
 #### SMOTE Oversampling
-- dsaf
+- balanced accuracy scores
+  - asfd
+- precision score
+  - sadf
+- recall scores 
+  - asdf
 
 
 #### ClusterCentroids
-- fdsf
-
+- balanced accuracy scores
+  - asfd
+- precision score
+  - sadf
+- recall scores 
+  - asdf
 
 #### SMOTEENN
-- sadf
+- balanced accuracy scores
+  - asfd
+- precision score
+  - sadf
+- recall scores 
+  - asdf
 
 
 #### BalancedRandomForestClassifier
-- asdf
-
+- balanced accuracy scores
+  - asfd
+- precision score
+  - sadf
+- recall scores 
+  - asdf
 
 #### EasyEnsembleClassifier
-- asdf
-
+- balanced accuracy scores
+  - asfd
+- precision score
+  - sadf
+- recall scores 
+  - asdf
 
 ## Summary
-- asdf
-
+- balanced accuracy scores
+  - asfd
+- precision score
+  - sadf
+- recall scores 
+  - asdf
