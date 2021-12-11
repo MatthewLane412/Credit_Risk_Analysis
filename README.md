@@ -42,7 +42,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 - precision and recall scores 
   - The precision accuracy score for this model is very accurate for low risk scores, but very low for high risk loans. 
-  - This model is better at predicting high risk loans, but isn't very accuate for high or low risk loans.
+  - The recall score is better at predicting high risk loans, but isn't very accuate for high or low risk loans.
    
 ![PyBer_Summary_df](/Images/ClusterCentroids_Undersampling_precision_and_recall_scores.PNG)
 
@@ -55,7 +55,9 @@ In this analysis we are attempting to solve a real world problem for credit risk
 ![PyBer_Summary_df](/Images/SMOTEENN_Combination(Over_and_Under)_Sampling_balanced_accuracy_score.PNG)
 
 - precision and recall scores 
-  - asdf
+  - The precision accuracy score for this model is very accurate for low risk scores, but very low for high risk loans. 
+  - The recall score shows this model is better at predicting high risk than low risk. The high risk score is better than previously shown at 0.7.
+ 
 ![PyBer_Summary_df](/Images/SMOTEENN_Combination(Over_and_Under)_Sampling_precision_and_recall_scores.PNG)
 
 
@@ -67,7 +69,9 @@ In this analysis we are attempting to solve a real world problem for credit risk
 ![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_balanced_accuracy_score.PNG)
 
 - precision and recall scores 
-  - asdf
+  - The precision accuracy score for this model is very accurate for low risk scores, but very low for high risk loans. 
+  - The recall score shows this model is better at predicting low risk over high risk.
+ 
 ![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_precision_and_recall_scores.PNG)
  
  
