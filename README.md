@@ -6,7 +6,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 ## Results
 
-#### Naive Random Oversampling
+### Naive Random Oversampling
 - balanced accuracy scores
   - asfd
 ![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
@@ -21,7 +21,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 
 
-#### SMOTE Oversampling
+### SMOTE Oversampling
 - balanced accuracy scores
   - asfd
 ![PyBer_Summary_df](/Images/SMOTE_Oversampling_balanced_accuracy_score.PNG)
@@ -36,7 +36,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 
 
-#### ClusterCentroids
+### ClusterCentroids
 - balanced accuracy scores
   - asfd
 ![PyBer_Summary_df](/Images/ClusterCentroids_Undersampling_balanced_accuracy_score.PNG)
@@ -51,7 +51,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 
 
-#### SMOTEENN
+### SMOTEENN
 - balanced accuracy scores
   - asfd
 ![PyBer_Summary_df](/Images/SMOTEENN_Combination(Over_and_Under)_Sampling_balanced_accuracy_score.PNG)
@@ -66,7 +66,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 
 
-#### BalancedRandomForestClassifier
+### BalancedRandomForestClassifier
 - balanced accuracy scores
   - asfd
 ![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_balanced_accuracy_score.PNG)
@@ -81,7 +81,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
  
  
  
-#### EasyEnsembleClassifier
+### EasyEnsembleClassifier
 - balanced accuracy scores
   - asfd
 ![PyBer_Summary_df](/Images/EasyEnsembleClassifier_balanced_accuracy_score.PNG)
