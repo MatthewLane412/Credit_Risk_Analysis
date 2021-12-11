@@ -6,6 +6,17 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 ## Results
 
+#### Naive Random Oversampling
+
+#### SMOTE Oversampling
+
+#### ClusterCentroids
+
+#### SMOTEENN
+
+#### BalancedRandomForestClassifier
+
+#### EasyEnsembleClassifier
 
 ## Summary
 
