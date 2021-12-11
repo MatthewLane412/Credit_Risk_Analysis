@@ -8,8 +8,8 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 ### Naive Random Oversampling
 - balanced accuracy scores
-  - asfd
-  - 
+  - The Naive Random Oversampling method was not accurate enough to automate this tast with machine learning. 
+  
 ![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
 
 - Confusion Matrix
@@ -24,7 +24,8 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 ### SMOTE Oversampling
 - balanced accuracy scores
-  - asfd
+  - The SMOTE Oversampling method was not accurate enough to automate this tast with machine learning. 
+ 
 ![PyBer_Summary_df](/Images/SMOTE_Oversampling_balanced_accuracy_score.PNG)
 
 - Confusion Matrix
@@ -39,7 +40,8 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 ### ClusterCentroids
 - balanced accuracy scores
-  - asfd
+  - The ClusterCentroids method was not accurate enough to automate this tast with machine learning. 
+
 ![PyBer_Summary_df](/Images/ClusterCentroids_Undersampling_balanced_accuracy_score.PNG)
 
 - Confusion Matrix
@@ -54,7 +56,8 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 ### SMOTEENN
 - balanced accuracy scores
-  - asfd
+  - The SMOTEENN method was not accurate enough to automate this tast with machine learning. 
+  
 ![PyBer_Summary_df](/Images/SMOTEENN_Combination(Over_and_Under)_Sampling_balanced_accuracy_score.PNG)
 
 - Confusion Matrix
@@ -69,7 +72,8 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 ### BalancedRandomForestClassifier
 - balanced accuracy scores
-  - asfd
+  - While the BalancedRandomForestClassifier method had the highest accuarcy percent, it was not accurate enough to automate this tast with machine learning. 
+  
 ![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_balanced_accuracy_score.PNG)
 
 - Confusion Matrix
@@ -84,7 +88,8 @@ In this analysis we are attempting to solve a real world problem for credit risk
  
 ### EasyEnsembleClassifier
 - balanced accuracy scores
-  - asfd
+  - The EasyEnsembleClassifier method was not accurate enough to automate this tast with machine learning. 
+  
 ![PyBer_Summary_df](/Images/EasyEnsembleClassifier_balanced_accuracy_score.PNG)
 
 - Confusion Matrix
