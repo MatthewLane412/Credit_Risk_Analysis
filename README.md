@@ -9,6 +9,8 @@ In this analysis we are attempting to solve a real world problem for credit risk
 #### Naive Random Oversampling
 - balanced accuracy scores
   - asfd
+![PyBer_Summary_df](/Vacation_Search/WeatherPy_vacation_map.png)
+
 - Confusion Matrix
   - asdf
 - precision and recall scores 
