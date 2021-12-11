@@ -9,7 +9,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 #### Naive Random Oversampling
 - balanced accuracy scores
   - asfd
- - Confusion Matrix
+- Confusion Matrix
   - asdf
 - precision and recall scores 
   - asdf
@@ -17,7 +17,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 #### SMOTE Oversampling
 - balanced accuracy scores
   - asfd
- - Confusion Matrix
+- Confusion Matrix
   - asdf
 - precision and recall scores 
   - asdf
@@ -26,15 +26,15 @@ In this analysis we are attempting to solve a real world problem for credit risk
 #### ClusterCentroids
 - balanced accuracy scores
   - asfd
-- precision score
-  - sadf
-- recall scores 
+- Confusion Matrix
+  - asdf
+- precision and recall scores 
   - asdf
 
 #### SMOTEENN
 - balanced accuracy scores
   - asfd
- - Confusion Matrix
+- Confusion Matrix
   - asdf
 - precision and recall scores 
   - asdf
@@ -43,7 +43,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 #### BalancedRandomForestClassifier
 - balanced accuracy scores
   - asfd
- - Confusion Matrix
+- Confusion Matrix
   - asdf
 - precision and recall scores 
   - asdf
@@ -51,7 +51,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 #### EasyEnsembleClassifier
 - balanced accuracy scores
   - asfd
- - Confusion Matrix
+- Confusion Matrix
   - asdf
 - precision and recall scores 
   - asdf
@@ -59,7 +59,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 ## Summary
 - balanced accuracy scores
   - asfd
- - Confusion Matrix
+- Confusion Matrix
   - asdf
 - precision and recall scores 
   - asdf
