@@ -7,8 +7,12 @@ In this analysis we are attempting to solve a real world problem for credit risk
 ## Results
 
 #### Naive Random Oversampling
-- asdf
-
+- balanced accuracy scores
+ - asfd
+- precision score
+ - sadf
+- recall scores 
+ - asdf
 
 #### SMOTE Oversampling
 - dsaf
