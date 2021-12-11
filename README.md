@@ -12,10 +12,6 @@ In this analysis we are attempting to solve a real world problem for credit risk
   
 ![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
 
-- Confusion Matrix
-  - asdf
-![PyBer_Summary_df](/Images/Native_Random_Ovesampling_confusion_matrix.PNG)
-
 - precision and recall scores 
   - asdf
 ![PyBer_Summary_df](/Images/Native_Random_Ovesampling_precision_and_recall_scores.PNG)
@@ -27,10 +23,6 @@ In this analysis we are attempting to solve a real world problem for credit risk
   - The SMOTE Oversampling method was not accurate enough to automate this tast with machine learning. 
  
 ![PyBer_Summary_df](/Images/SMOTE_Oversampling_balanced_accuracy_score.PNG)
-
-- Confusion Matrix
-  - asdf
-![PyBer_Summary_df](/Images/SMOTE_Oversampling_confusion_matrix.PNG)
 
 - precision and recall scores 
   - asdf
@@ -44,10 +36,6 @@ In this analysis we are attempting to solve a real world problem for credit risk
 
 ![PyBer_Summary_df](/Images/ClusterCentroids_Undersampling_balanced_accuracy_score.PNG)
 
-- Confusion Matrix
-  - asdf
-![PyBer_Summary_df](/Images/ClusterCentroids_Undersampling_confusion_matrix.PNG)
-
 - precision and recall scores 
   - asdf
 ![PyBer_Summary_df](/Images/ClusterCentroids_Undersampling_precision_and_recall_scores.PNG)
@@ -59,10 +47,6 @@ In this analysis we are attempting to solve a real world problem for credit risk
   - The SMOTEENN method was not accurate enough to automate this tast with machine learning. 
   
 ![PyBer_Summary_df](/Images/SMOTEENN_Combination(Over_and_Under)_Sampling_balanced_accuracy_score.PNG)
-
-- Confusion Matrix
-  - asdf
-![PyBer_Summary_df](/Images/SMOTEENN_Combination(Over_and_Under)_Sampling_Confusion_Matrix.PNG)
 
 - precision and recall scores 
   - asdf
@@ -76,10 +60,6 @@ In this analysis we are attempting to solve a real world problem for credit risk
   
 ![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_balanced_accuracy_score.PNG)
 
-- Confusion Matrix
-  - asdf
-![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_confusion_Matrix.PNG)
-
 - precision and recall scores 
   - asdf
 ![PyBer_Summary_df](/Images/Balanced_Random_Forecast_Classifier_precision_and_recall_scores.PNG)
@@ -91,10 +71,6 @@ In this analysis we are attempting to solve a real world problem for credit risk
   - The EasyEnsembleClassifier method was not accurate enough to automate this tast with machine learning. 
   
 ![PyBer_Summary_df](/Images/EasyEnsembleClassifier_balanced_accuracy_score.PNG)
-
-- Confusion Matrix
-  - asdf
-![PyBer_Summary_df](/Images/EasyEnsembleClassifier_Classifier_confusion_Matrix.PNG)
 
 - precision and recall scores 
   - asdf
