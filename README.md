@@ -9,6 +9,7 @@ In this analysis we are attempting to solve a real world problem for credit risk
 ### Naive Random Oversampling
 - balanced accuracy scores
   - asfd
+  - 
 ![PyBer_Summary_df](/Images/Native_Random_Ovesampling_balanced_accuracy_score.PNG)
 
 - Confusion Matrix
