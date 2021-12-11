@@ -27,7 +27,9 @@ In this analysis we are attempting to solve a real world problem for credit risk
 ![PyBer_Summary_df](/Images/SMOTE_Oversampling_balanced_accuracy_score.PNG)
 
 - precision and recall scores 
-  - asdf
+  - The precision accuracy score for this model is very accurate for low risk scores, but very low for high risk loans. 
+  - The recall scores show this model is better at predicting low risk scores, but isn't super accurate in either area.
+ 
 ![PyBer_Summary_df](/Images/SMOTE_Ovesampling_precision_and_recall_scores.PNG)
 
 
@@ -39,7 +41,9 @@ In this analysis we are attempting to solve a real world problem for credit risk
 ![PyBer_Summary_df](/Images/ClusterCentroids_Undersampling_balanced_accuracy_score.PNG)
 
 - precision and recall scores 
-  - asdf
+  - The precision accuracy score for this model is very accurate for low risk scores, but very low for high risk loans. 
+  - This model is better at predicting high risk loans, but isn't very accuate for high or low risk loans.
+   
 ![PyBer_Summary_df](/Images/ClusterCentroids_Undersampling_precision_and_recall_scores.PNG)
 
 
